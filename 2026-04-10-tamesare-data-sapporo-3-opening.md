@@ -130,7 +130,7 @@ WATCH IN
 
 <div style="font-size: 2em; font-weight: bold;">
 
-7月10日(金)：試されデータSAPPORO \#4
+7月10日(金)：試されDATA SAPPORO \#4
 
 </div>
 
