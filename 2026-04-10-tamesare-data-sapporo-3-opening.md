@@ -82,37 +82,32 @@ style="width:100.0%" />
 
 <div style="display: flex; flex-direction: column; gap: 2em; margin-top: 2em;">
 
-<div style="font-size: 2em; font-weight: bold;">
+<div style="font-size: 1em; font-weight: bold;">
 
 じょんすみす（クラスメソッド株式会社）
 
 </div>
 
-<div style="font-size: 1.5em;">
+<div style="font-size: 1em;">
 
 クラスメソッド株式会社 データ事業本部
 機械学習チーム所属、どこにでもいる普通の酔っ払い、PythonよりRのほうが好きらしい
 、元Sparkおじさｎ…（´・ω・\`）.;:…（´・ω…:.;::..（´・;::: .:.;: ｻﾗｻﾗ..
 
-<div style="font-size: 2em; font-weight: bold;">
+</div>
+
+<div style="font-size: 1em; font-weight: bold;">
 
 菱沼 雄太（ちゅらデータ株式会社 CTO）
 
 </div>
 
-<div style="font-size: 1.5em;">
+<div style="font-size: 1em;">
 
 2019年よりちゅらデータにジョイン、CTOに就任。国内のSnowflakeコミュニティ「SnowVillage」を立ち上げ、初代村長として活動を盛り上げる。「Snowflake
 Data Superheroes」において4年連続（2022～2025）選出、「DATA LEADERS TO
 WATCH IN
 2023」では、世界で注目されるデータリーダーとして日本唯一の選出となる。
-
-</div>
-
-<div style="text-align: left; margin-top: 2em;">
-
-アド系ベンチャーのエンジニアとして、サーバ運搬から始まり、開発、新人育成と様々な役割を経験。特に大規模データ処理の効率化に情熱を注いできました。
-サービス拡大と比例して日々難度が増していくアド系データ処理にて、地獄の泥沼運用から生還した経験から、最先端のクラウド（マネージドサービス）を乗りこなして運用労力を最小化することに無上の喜びを感じてます。
 
 </div>
 
@@ -142,8 +137,6 @@ WATCH IN
 試されDATA SAPPORO \#3
 
 お楽しみください
-
-</div>
 
 </div>
 
