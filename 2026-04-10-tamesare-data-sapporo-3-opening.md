@@ -124,11 +124,23 @@ WATCH IN
 | 個人情報の保護 | 参加者やスピーカーの個人情報を無断で共有しないでください |
 | 参加レベル | データに関する基礎知識があると望ましいですが、すべてのレベルの参加者を歓迎 |
 
-## 5. お楽しみください
+## 5. 次回予告
 
-### 5.1. Let’s enjoy
+### 5.1. 試されDATA SAPPORO \#4
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 3em; margin-top: 5em;">
+<div style="font-size: 2em; font-weight: bold;">
+
+7月10日(金)：試されデータSAPPORO \#4
+
+</div>
+
+<div style="font-size: 1.5em;">
+
+場所を探し中
+
+</div>
+
+## 6. Let’s enjoy
 
 <div style="font-size: 3em; font-weight: bold;">
 
@@ -140,4 +152,4 @@ WATCH IN
 
 </div>
 
-</div>
+:::
